@@ -3,11 +3,12 @@
   "title": "Clean",
   "description": "Clean unused elements, i.e. which have no views.",
   "homepage": "https://github.com/claudejin/staruml-clean",
+  "issues": "https://github.com/claudejin/staruml-clean/issues",
   "version": "0.1.0",
   "keywords": [
     "clean",
     "unused",
-	"without view"
+    "without view"
   ],
   "author": {
     "name": "Claude Jin",
