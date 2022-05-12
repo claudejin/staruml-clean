@@ -1,0 +1,21 @@
+{
+  "name": "claude.clean",
+  "title": "Clean",
+  "description": "Clean unused elements, i.e. which have no views.",
+  "homepage": "https://github.com/claudejin/staruml-clean",
+  "version": "0.1.0",
+  "keywords": [
+    "clean",
+    "unused",
+	"without view"
+  ],
+  "author": {
+    "name": "Claude Jin",
+    "email": "claude@minbeau.com",
+    "url": "https://github.com/claudejin"
+  },
+  "license": "MIT",
+  "engines": {
+    "staruml": ">=5.0.0"
+  }
+}

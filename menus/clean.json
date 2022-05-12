@@ -1,0 +1,14 @@
+{
+  "menu": [
+    {
+      "id": "tools",
+      "submenu": [
+        {
+          "label": "Show unused elements",
+          "id": "tool.clean",
+          "command": "clean:show-unused-elements"
+        }
+      ]
+    }
+  ]
+}
